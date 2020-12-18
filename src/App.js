@@ -7,7 +7,7 @@ class App extends Component {
   render() {
 
     const myAddress = {
-      street: 'Somewhere',
+      street: 'Updated_some',
       city: 'City',
       state: '__',
       zip: '12334'
